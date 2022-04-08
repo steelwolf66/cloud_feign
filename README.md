@@ -5,4 +5,4 @@
 - copy一份要覆盖的interface
 - 在新的interface中配置fallback
 - 这里建议使用fallbackFactory，覆盖其中的create方法
-### 3.此包中已引入了ztax的cloud-common包，引入feign后无需重复引用
+### 3.此包中已引入了ztax的cloud-common包，引入feign后无需重复引用，避免版本冲突
